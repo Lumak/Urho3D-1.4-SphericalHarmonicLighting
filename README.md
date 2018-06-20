@@ -5,7 +5,7 @@ Spherical Harmonic Lighting implementation written with Urho3D engine version 1.
 Information
 -----------------------------------------------------------------------------------
 Spherical Harmonic Lighting based on: 
-[a spherical-harmonic-lighting.pdf](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting/blob/master/spherical-harmonic-lighting.pdf)
+[spherical-harmonic-lighting.pdf](https://github.com/Lumak/Urho3D-1.4-SphericalHarmonicLighting/blob/master/spherical-harmonic-lighting.pdf)
 
 This is a simple implementation of the SHL using a single static light and static models.  
 This example uses low polygon mesh and may not look like other examples of SHL, so you
