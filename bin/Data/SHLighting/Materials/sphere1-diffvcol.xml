@@ -1,0 +1,7 @@
+<material>
+	<technique name="Techniques/DiffVCol.xml" />
+	<texture unit="diffuse" name="SHLighting/sphere.png" />
+	<parameter name="MatDiffColor" value="0.7 0.7 0.8 1" />
+	<parameter name="MatSpecColor" value="0.211382 0.211382 0.211382 20" />
+	<parameter name="MatEmissiveColor" value="0 0 0 1" />
+</material>
